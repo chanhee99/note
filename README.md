@@ -39,4 +39,7 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅�
  난수 생성의 원리가 궁금하면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인할 수 있습니다.
 
  ![카지노 이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxSPQWRKV97d3-Prj1lXDAO3vt2_2MdKAW9Q&s)
+
+ 오늘도 연봉이 10원 올랐습니다.
+ ![최고](https://raw.githubusercontent.com/chanhee99/note/main/IMG_2260.webp)
   
